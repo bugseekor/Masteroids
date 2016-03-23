@@ -1,0 +1,273 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>Fonts\bodyFont.spritefont</Source>
+      <Name>Fonts\bodyFont</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>G:\PROG2370\Final Project\MVSPFinalProject\MVSPFinalProject\MVSPFinalProject\bin\x86\Release\Content\Fonts\bodyFont.xnb</Output>
+      <Time>2015-11-30T11:46:23.2426013-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Fonts\regularFont.spritefont</Source>
+      <Name>Fonts\regularFont</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>G:\PROG2370\Final Project\MVSPFinalProject\MVSPFinalProject\MVSPFinalProject\bin\x86\Release\Content\Fonts\regularFont.xnb</Output>
+      <Time>2015-11-30T11:46:23.2582034-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Fonts\hilightFont.spritefont</Source>
+      <Name>Fonts\hilightFont</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>G:\PROG2370\Final Project\MVSPFinalProject\MVSPFinalProject\MVSPFinalProject\bin\x86\Release\Content\Fonts\hilightFont.xnb</Output>
+      <Time>2015-11-30T11:46:23.2582034-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Fonts\titleFont.spritefont</Source>
+      <Name>Fonts\titleFont</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>G:\PROG2370\Final Project\MVSPFinalProject\MVSPFinalProject\MVSPFinalProject\bin\x86\Release\Content\Fonts\titleFont.xnb</Output>
+      <Time>2015-11-30T11:46:23.2738055-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Fonts\stageFont.spritefont</Source>
+      <Name>Fonts\stageFont</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>G:\PROG2370\Final Project\MVSPFinalProject\MVSPFinalProject\MVSPFinalProject\bin\x86\Release\Content\Fonts\stageFont.xnb</Output>
+      <Time>2015-12-01T17:05:46.8746739-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\stars.jpg</Source>
+      <Name>Images\stars</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>G:\PROG2370\Final Project\MVSPFinalProject\MVSPFinalProject\MVSPFinalProject\bin\x86\Release\Content\Images\stars.xnb</Output>
+      <Time>2015-11-30T11:46:23.507837-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\stars2.jpg</Source>
+      <Name>Images\stars2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>G:\PROG2370\Final Project\MVSPFinalProject\MVSPFinalProject\MVSPFinalProject\bin\x86\Release\Content\Images\stars2.xnb</Output>
+      <Time>2015-11-30T11:46:23.5390412-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\spaceShipIcon.png</Source>
+      <Name>Images\spaceShipIcon</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>G:\PROG2370\Final Project\MVSPFinalProject\MVSPFinalProject\MVSPFinalProject\bin\x86\Release\Content\Images\spaceShipIcon.xnb</Output>
+      <Time>2015-11-30T11:46:23.4922349-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\bullet.png</Source>
+      <Name>Images\bullet</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>G:\PROG2370\Final Project\MVSPFinalProject\MVSPFinalProject\MVSPFinalProject\bin\x86\Release\Content\Images\bullet.xnb</Output>
+      <Time>2015-11-30T11:46:23.3830202-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\asteroid1.png</Source>
+      <Name>Images\asteroid1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>G:\PROG2370\Final Project\MVSPFinalProject\MVSPFinalProject\MVSPFinalProject\bin\x86\Release\Content\Images\asteroid1.xnb</Output>
+      <Time>2015-11-30T11:46:23.3050097-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\asteroid2.png</Source>
+      <Name>Images\asteroid2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>G:\PROG2370\Final Project\MVSPFinalProject\MVSPFinalProject\MVSPFinalProject\bin\x86\Release\Content\Images\asteroid2.xnb</Output>
+      <Time>2015-11-30T11:46:23.3206118-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\asteroid3.png</Source>
+      <Name>Images\asteroid3</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>G:\PROG2370\Final Project\MVSPFinalProject\MVSPFinalProject\MVSPFinalProject\bin\x86\Release\Content\Images\asteroid3.xnb</Output>
+      <Time>2015-11-30T11:46:23.3362139-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\asteroid4.png</Source>
+      <Name>Images\asteroid4</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>G:\PROG2370\Final Project\MVSPFinalProject\MVSPFinalProject\MVSPFinalProject\bin\x86\Release\Content\Images\asteroid4.xnb</Output>
+      <Time>2015-11-30T11:46:23.351816-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\asteroid5.png</Source>
+      <Name>Images\asteroid5</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>G:\PROG2370\Final Project\MVSPFinalProject\MVSPFinalProject\MVSPFinalProject\bin\x86\Release\Content\Images\asteroid5.xnb</Output>
+      <Time>2015-11-30T11:46:23.3674181-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\WKey1.png</Source>
+      <Name>Images\WKey1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>G:\PROG2370\Final Project\MVSPFinalProject\MVSPFinalProject\MVSPFinalProject\bin\x86\Release\Content\Images\WKey1.xnb</Output>
+      <Time>2015-11-30T11:46:23.5390412-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\SpaceKey1.png</Source>
+      <Name>Images\SpaceKey1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>G:\PROG2370\Final Project\MVSPFinalProject\MVSPFinalProject\MVSPFinalProject\bin\x86\Release\Content\Images\SpaceKey1.xnb</Output>
+      <Time>2015-11-30T11:46:23.4766328-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\EscKey1.png</Source>
+      <Name>Images\EscKey1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>G:\PROG2370\Final Project\MVSPFinalProject\MVSPFinalProject\MVSPFinalProject\bin\x86\Release\Content\Images\EscKey1.xnb</Output>
+      <Time>2015-11-30T11:46:23.3986223-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\DKey1.png</Source>
+      <Name>Images\DKey1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>G:\PROG2370\Final Project\MVSPFinalProject\MVSPFinalProject\MVSPFinalProject\bin\x86\Release\Content\Images\DKey1.xnb</Output>
+      <Time>2015-11-30T11:46:23.3986223-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Akey1.png</Source>
+      <Name>Images\Akey1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>G:\PROG2370\Final Project\MVSPFinalProject\MVSPFinalProject\MVSPFinalProject\bin\x86\Release\Content\Images\Akey1.xnb</Output>
+      <Time>2015-11-30T11:46:23.2894076-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\menuScreen.png</Source>
+      <Name>Images\menuScreen</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>G:\PROG2370\Final Project\MVSPFinalProject\MVSPFinalProject\MVSPFinalProject\bin\x86\Release\Content\Images\menuScreen.xnb</Output>
+      <Time>2015-11-30T11:46:23.4766328-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\explosion.png</Source>
+      <Name>Images\explosion</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>G:\PROG2370\Final Project\MVSPFinalProject\MVSPFinalProject\MVSPFinalProject\bin\x86\Release\Content\Images\explosion.xnb</Output>
+      <Time>2015-11-30T11:46:23.4298265-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\explosion_sprite_2d_by_korzonrocknet-d7dv5b5.png</Source>
+      <Name>Images\explosion_sprite_2d_by_korzonrocknet-d7dv5b5</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>G:\PROG2370\Final Project\MVSPFinalProject\MVSPFinalProject\MVSPFinalProject\bin\x86\Release\Content\Images\explosion_sprite_2d_by_korzonrocknet-d7dv5b5.xnb</Output>
+      <Time>2015-11-30T11:46:23.4454286-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\flamealpha.png</Source>
+      <Name>Images\flamealpha</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>G:\PROG2370\Final Project\MVSPFinalProject\MVSPFinalProject\MVSPFinalProject\bin\x86\Release\Content\Images\flamealpha.xnb</Output>
+      <Time>2015-11-30T11:46:23.4454286-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Sounds\music.mp3</Source>
+      <Name>Sounds\music</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SongProcessor</Processor>
+      <Options>None</Options>
+      <Output>G:\PROG2370\Final Project\MVSPFinalProject\MVSPFinalProject\MVSPFinalProject\bin\x86\Release\Content\Sounds\music.xnb</Output>
+      <Extra>G:\PROG2370\Final Project\MVSPFinalProject\MVSPFinalProject\MVSPFinalProject\bin\x86\Release\Content\Sounds\music.wma</Extra>
+      <Time>2015-12-02T11:56:53.0623124-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Sounds\explosionSound.wav</Source>
+      <Name>Sounds\explosionSound</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>G:\PROG2370\Final Project\MVSPFinalProject\MVSPFinalProject\MVSPFinalProject\bin\x86\Release\Content\Sounds\explosionSound.xnb</Output>
+      <Time>2015-12-02T16:32:42.2647029-05:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <ContentProjectGUID>{43A573F3-8EB2-4C66-9E82-D1DD6FCEF3BD}</ContentProjectGUID>
+      <TargetPlatform>Windows</TargetPlatform>
+      <TargetProfile>Reach</TargetProfile>
+      <BuildConfiguration>Release</BuildConfiguration>
+      <CompressContent>true</CompressContent>
+      <RootDirectory>G:\PROG2370\Final Project\MVSPFinalProject\MVSPFinalProject\MVSPFinalProjectContent\</RootDirectory>
+      <LoggerRootDirectory>G:\PROG2370\Final Project\MVSPFinalProject\MVSPFinalProject\MVSPFinalProject\</LoggerRootDirectory>
+      <IntermediateDirectory>G:\PROG2370\Final Project\MVSPFinalProject\MVSPFinalProject\MVSPFinalProject\obj\x86\Release\</IntermediateDirectory>
+      <OutputDirectory>G:\PROG2370\Final Project\MVSPFinalProject\MVSPFinalProject\MVSPFinalProject\bin\x86\Release\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2011-09-01T16:22:30-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2011-09-01T16:22:30-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2011-09-01T16:22:30-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2011-09-01T16:22:30-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2011-09-01T16:22:30-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2011-09-01T16:22:30-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Windows\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2015-09-17T16:44:37.7261089-04:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>
